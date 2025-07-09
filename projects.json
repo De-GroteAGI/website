@@ -1,0 +1,14 @@
+[
+  {
+    "id": "TTS_ChatterboxUI",
+    "title": "Text-to-Speech ChatterboxUI",
+    "description": "Simple UI for a text-to-speech that can create wav files and clone voices.",
+    "github": "https://github.com/wybie-lab/TTS_ChatterboxUI"
+  },
+    {
+    "id": "DayByDay",
+    "title": "DayByDay Planner",
+    "description": "DayByDay is a voice/visual assistant that helps you plan your day-to-day activities. On the city of Antwerp, Belgium.",
+    "github": "https://github.com/wybie-lab/day-by-day"
+  }
+] 
