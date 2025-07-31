@@ -1,20 +1,8 @@
 [
   {
-    "id": "TTS_ChatterboxUI",
-    "title": "Text-to-Speech ChatterboxUI",
-    "description": "Simple UI for a text-to-speech that can create wav files and clone voices.",
-    "github": "https://github.com/wybie-lab/TTS_ChatterboxUI"
-  },
-  {
-    "id": "daily-podcast",
-    "title": "Daily Podcast",
-    "description": "Daily Podcast is Telegram bot that create podcast from your messages. Ask him every topic and he will create a podcast for you.",
-    "github": "https://github.com/wybie-lab/daily-podcast"
-  },
-  {
-    "id": "DayByDay",
-    "title": "DayByDay Planner",
-    "description": "DayByDay is a voice/visual assistant that helps you plan your day-to-day activities. On the city of Antwerp, Belgium.",
-    "github": "https://github.com/wybie-lab/day-by-day"
+    "id": "Example Project",
+    "title": "Example Project",
+    "description": "Example Project Description",
+    "github": "https://github.com/example/example"
   }
 ]
